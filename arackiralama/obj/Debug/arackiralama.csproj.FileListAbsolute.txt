@@ -1,0 +1,14 @@
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\bin\Debug\arackiralama.exe.config
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\bin\Debug\arackiralama.exe
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\bin\Debug\arackiralama.pdb
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.AssemblyReference.cache
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\obj\Debug\arackiralama.Form1.resources
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\obj\Debug\arackiralama.Properties.Resources.resources
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.GenerateResource.cache
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.CoreCompileInputs.cache
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\obj\Debug\arackiralama.exe
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\obj\Debug\arackiralama.pdb
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\obj\Debug\arackiralama.Form2.resources
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\obj\Debug\arackiralama.Form3.resources
+C:\Users\hazalozkan\Desktop\Görsel Programlama\arackiralama\arackiralama\obj\Debug\arackiralama.Form4.resources
